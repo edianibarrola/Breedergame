@@ -2,9 +2,13 @@
 
 This public repository is reserved for approved compiled Unity Web playtest builds. Editable game source is maintained separately.
 
-Version 0.1.0 is a visual laboratory: one enclosure, a stylized Blender-authored python, four appearance studies, a closer view, rotation, and individual pattern variation. It is not yet the breeding/store gameplay prototype. Morph artwork remains unvalidated.
+Version 0.2.0 is an offline habitat workshop built in Unity. Customize an enclosure's finish, wood, and bedding; add an upper chamber; assign breeder housing or sales display use; and expand the sanctuary to three bays. Existing bays keep their settings. The prototype uses 19 reusable Blender-authored parts.
 
-The initial playtest will be single-player with local browser saves. Player trading, accounts, cloud saves, and payments are not included. Future online features will require a separate backend; GitHub Pages serves the client only.
+Use **Style** for finishes and **Build** for chambers, decor, roles, and room expansion. Use **View sanctuary / Inspect enclosure** to change views, and the bay selector to choose the enclosure you are editing.
+
+This is an asset and layout playtest. Breeding gameplay, real inventory, upgrade costs, accounts, and player trading are still to come. The first workshop has a three-bay review limit with up to two adult chambers per bay. Cosmetic changes do not add housing capacity.
+
+Settings save locally in the browser and do not synchronize between devices. Future online features require a separate backend; GitHub Pages serves the client only. Phone performance and touch behavior need real-device testing.
 
 Play URL after deployment:
 https://edianibarrola.github.io/Breedergame/
