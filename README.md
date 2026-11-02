@@ -2,7 +2,7 @@
 
 This public repository is reserved for approved compiled Unity Web playtest builds. Editable game source is maintained separately.
 
-Version 0.3.0 is an offline habitat workshop built in Unity. Customize an enclosure's finish, wood, and bedding; add an upper chamber; assign breeder housing or sales display use; and expand the sanctuary to three bays. Existing bays keep their settings. The prototype uses 20 reusable Blender-authored parts, including a climate-control module.
+Version 0.3.1 is an offline habitat workshop built in Unity. Customize an enclosure's finish, wood, and bedding; add an upper chamber; assign breeder housing or sales display use; and expand the sanctuary to three bays. Existing bays keep their settings. The prototype uses 20 reusable Blender-authored parts, including a climate-control module.
 
 Use **Style** for finishes, **Build** for expansion, and **Care** for each chamber's suitability. Tap a bay in the sanctuary to inspect it. Stacked bays have **View upper / View lower** controls so both chambers remain accessible. The overview uses a lower camera angle when stacks are present.
 
