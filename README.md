@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.13.0](https://www.edianibarrola.com/Breedergame/?v=0.13.0)
+[Play version 0.14.0](https://www.edianibarrola.com/Breedergame/?v=0.14.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
 
-**New in 0.13:** Home opens in a low, front-facing rack view so both upper and lower residents are visible. Drag along a rack; use ‹ Rack / Rack › to switch sides or aisles. Room map shows the whole layout; tap an enclosure to face its rack, or use Front view to return. Foreground walls and other racks are hidden in the front view. Capacity remains 12 floor enclosures / 24 homes, arranged as four short racks across two aisles. Existing saves are preserved.
+**New in 0.14:** Drag horizontally on the Room map to rotate the whole sanctuary. Turn left / Turn right rotate by 90 degrees. The camera keeps the room centered and framed, and nearby walls cut away when viewed from outside. The build-position sign faces the camera in both rack and map views, including reversed racks.
+
+**Added in 0.13:** Home opens in a low, front-facing rack view so both upper and lower residents are visible. Drag along a rack; use ‹ Rack / Rack › to switch sides or aisles. Room map shows the whole layout; tap an enclosure to face its rack, or use Front view to return. Foreground walls and other racks are hidden in the front view. Capacity remains 12 floor enclosures / 24 homes, arranged as four short racks across two aisles. Existing saves are preserved.
 
 Glass-door pulls remain removed; lower drawer handles are retained.
 
