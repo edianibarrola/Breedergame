@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.17.0](https://www.edianibarrola.com/Breedergame/?v=0.17.0)
+[Play version 0.18.0](https://www.edianibarrola.com/Breedergame/?v=0.18.0)
 
-Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
+Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.17:** Tongue flicks begin within about a second of opening a snake view and use a longer double flick. The tongue is slightly enlarged for readability. On a snake’s page, use Face close-up then Tongue flick to trigger it on demand.
+**New in 0.18:** Snakes visibly grow in the room and portraits, with gentle idle movement and a short, non-graphic feeding sequence. Open a snake → Care for snake to Feed or Watch meal, refresh water, buy supplies or use Care all. Water lasts a day; juveniles can eat every 12 hours and adults every 24 hours. Meals support growth and add 20 seconds of playtest digestion before breeding. Missing visits never kills snakes or removes progress. Existing collections receive fresh care and supplies during migration; their DNA, maturity deadlines and progress are retained. The new one-snake tutorial is for fresh games and confirmed Dev resets.
+
+**Added in 0.17:** Tongue flicks begin within about a second of opening a snake view and use a longer double flick. The tongue is slightly enlarged for readability. On a snake’s page, use Face close-up then Tongue flick to trigger it on demand.
 
 **Added in 0.16:** Tap a floor aisle to enter directly; large aisle buttons and the extra entry confirmation are removed. Baby cards now say Known genetics and explain that supers pass one copy per baby. Orange Dream, Super Orange Dream and TSK Axanthic join the catalog. Shop → Clown-free projects offers new lines, with 14 founders total and 11 free of Clown. Existing DNA is retained; new gene locations migrate as normal alleles.
 
@@ -30,15 +32,16 @@ Breeding previews now sum the chances of identical appearances while keeping con
 
 Version 0.5 adds baby naming and renaming, previous/next and swipe browsing on snake details, collection search/filter/sort, clearer parent selection, enclosure shortcuts, family history, and clutch summaries. Visual Clowns have crown and facial markings; use **Face close-up** to inspect them. Enchi and Albino founders are available further down the visiting breeder shop. Existing saves migrate without resetting your progress.
 
-1. Follow **Care for Juniper** on Home. Fit the highlighted heater, then follow **Care for Atlas**. Shelter and water are already provided; each home takes 20 seconds to settle after its needs are met.
-2. Follow **Choose parents**. Inspect possible appearances and hidden genes, then start four eggs for 30 coins. Each egg has its own odds; results can repeat.
-3. After 45 seconds, **Hatch babies**. A group of eggs is called a clutch.
-4. Name each baby and choose its future. Sell now for a standard age-and-genetics price, select an empty home, or use the clearly priced **Build home & keep** option. Babies can wait safely in the nursery while you decide.
-5. Celebrate the completed clutch, then inspect a new breeding snake in the **Shop** to plan a fresh combination.
+1. Meet and name your young Pastel. Six meals are included.
+2. Open Care for snake, feed one meal and refresh water. The snake grows visibly; its first meal shortens the initial growth wait. Growth continues while away.
+3. Claim the adult milestone, buy a second floor enclosure, then meet the suggested compatible male in the Shop. Tutorial rewards help fund these steps.
+4. Fit the parents' heaters and let their homes settle. Choose parents, inspect the per-egg odds, then start four eggs for 30 coins.
+5. After 45 seconds, hatch the clutch, name the babies, and choose whether to keep or sell each one. Babies can wait safely in the nursery.
+6. Care all handles due meals and water in batches. Ten meals cost 30 game coins; water is free. Watch meal replays the animation without consuming food or giving rewards.
 
 The guide can be skipped. Before your first eggs exist, optional spending preserves the coins needed for care and pairing. Older saves already short of that budget receive starter support. Existing collections and genetics are retained. Use a private browser window to try a fresh start separately from your usual save.
 
-Shelter and water are included. Heater removal requires confirmation. Breeding previews are examples; actual babies have individual patterns. The Shop shows local NPC stock and lets you inspect before buying. Base prices are 35 coins for babies and 120 for adults, plus genetic bonuses; growth takes two minutes in this playtest. Owned favorites are protected from sale.
+Shelter and water are included. Heater removal requires confirmation. Breeding previews are examples; actual babies have individual patterns. The Shop shows local NPC stock and lets you inspect before buying. Base prices are 35 coins for babies and 120 for adults, plus genetic bonuses; unfed growth takes two minutes in this playtest, while a meal can shorten it. Owned favorites are protected from sale.
 
 Home, Snakes, Breed, Nursery, and Shop are designed around a portrait phone screen and also accept mouse input. Stacked enclosures can be inspected one chamber at a time. Cosmetics do not affect DNA or habitat readiness. Housing supports 12 floor enclosures with two chambers each (24 homes), arranged in one continuous room.
 
