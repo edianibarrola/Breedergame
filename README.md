@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.16.0](https://www.edianibarrola.com/Breedergame/?v=0.16.0)
+[Play version 0.17.0](https://www.edianibarrola.com/Breedergame/?v=0.17.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.16:** Tap a floor aisle to enter directly; large aisle buttons and the extra entry confirmation are removed. Baby cards now say Known genetics and explain that supers pass one copy per baby. Orange Dream, Super Orange Dream and TSK Axanthic join the catalog. Shop → Clown-free projects offers new lines, with 14 founders total and 11 free of Clown. Existing DNA is retained; new gene locations migrate as normal alleles.
+**New in 0.17:** Tongue flicks begin within about a second of opening a snake view and use a longer double flick. The tongue is slightly enlarged for readability. On a snake’s page, use Face close-up then Tongue flick to trigger it on demand.
+
+**Added in 0.16:** Tap a floor aisle to enter directly; large aisle buttons and the extra entry confirmation are removed. Baby cards now say Known genetics and explain that supers pass one copy per baby. Orange Dream, Super Orange Dream and TSK Axanthic join the catalog. Shop → Clown-free projects offers new lines, with 14 founders total and 11 free of Clown. Existing DNA is retained; new gene locations migrate as normal alleles.
 
 **Added in 0.14:** Drag horizontally on the Room map to rotate the whole sanctuary. Turn left / Turn right rotate by 90 degrees. The camera keeps the room centered and framed, and nearby walls cut away when viewed from outside. The build-position sign faces the camera in both rack and map views, including reversed racks.
 
