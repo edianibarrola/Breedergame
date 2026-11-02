@@ -1,8 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.7.0](https://www.edianibarrola.com/Breedergame/?v=0.7.0)
+[Play version 0.8.0](https://www.edianibarrola.com/Breedergame/?v=0.8.0)
 
-Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog now supports Pastel, Clown, Enchi, and Albino, including super forms for Pastel/Enchi and combinations.
+Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
+
+**New in 0.8:** Shop → Fire / Vanilla / Pied offers new breeding stock. Fire and Vanilla share one gene location and can produce Vanilla Cream; their super forms are Super Fire and Super Vanilla. Piebald adds individual white body patches. Try Ember × Custard for a Vanilla Cream project, or a Piebald pairing with Patch. Odds are per egg, and individual patterns vary. Existing collections and eggs migrate automatically.
+
+Breeding previews now sum the chances of identical appearances while keeping confirmed and possible genetics separate. Super Fire may hide other patterns; its white appearance does not automatically establish every underlying gene. Pedigree information stays attached to the animal.
 
 **Phone dev tools:** Home → Dev tools. Add playtest coins, finish waiting timers, equip occupied homes, or reset to a fresh game. Reset asks for confirmation and retains one pre-reset restore point. Use Restore pre-reset save to return to that snapshot; a later reset replaces it. These tools affect only your local browser save.
 
