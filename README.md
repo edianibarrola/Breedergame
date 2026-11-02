@@ -1,8 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.4.0](https://www.edianibarrola.com/Breedergame/?v=0.4.0)
+[Play version 0.5.0](https://www.edianibarrola.com/Breedergame/?v=0.5.0)
 
-The first breeding loop is playable: equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The current morph catalog supports Pastel and Clown.
+Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog now supports Pastel, Clown, Enchi, and Albino, including super forms for Pastel/Enchi and combinations.
+
+Version 0.5 adds baby naming and renaming, previous/next and swipe browsing on snake details, collection search/filter/sort, clearer parent selection, enclosure shortcuts, family history, and clutch summaries. Visual Clowns have crown and facial markings; use **Face close-up** to inspect them. Enchi and Albino founders are available further down the visiting breeder shop. Existing saves migrate without resetting your progress.
 
 1. Open **Snakes**, view Juniper, then **Care & enclosure**. Fit climate equipment and do the same for Atlas. Each chamber needs shelter, water, climate equipment, and 20 seconds to settle.
 2. Open **Breed** to review per-egg odds and start a four-egg clutch for 30 coins.
