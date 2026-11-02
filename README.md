@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.20.0](https://www.edianibarrola.com/Breedergame/?v=0.20.0)
+[Play version 0.21.0](https://www.edianibarrola.com/Breedergame/?v=0.21.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.20:** Faulty enclosure hide/drink/uncoiling movements are disabled; the resting pose and tongue remain. Cards use standalone blue/pink sex symbols, short carrier summaries and tap-to-open/select. Tap i for full known genetics. Secondary snake actions are under •••; Home → ••• contains Dev tools. The enclosure behavior controls and duplicate care buttons are removed. Care and supply rules, cosmetics and existing saves are preserved. Proper movement replacements still require animation work.
+**New in 0.21:** Cards grow to fit long morph names, carrier summaries and expanded genetics. Shop cards show the same portrait, morph, sex symbol and price layout as owned snakes. Long profile details scroll instead of cutting off. Future launches check for newer builds before starting, with an offline fallback; an active game is never reloaded. Existing saves are preserved. Use the versioned play link above once if an older screen is still loaded.
+
+**Added in 0.20:** Faulty enclosure hide/drink/uncoiling movements are disabled; the resting pose and tongue remain. Cards use standalone blue/pink sex symbols, short carrier summaries and tap-to-open/select. Tap i for full known genetics. Secondary snake actions are under •••; Home → ••• contains Dev tools. The enclosure behavior controls and duplicate care buttons are removed. Care and supply rules, cosmetics and existing saves are preserved. Proper movement replacements still require animation work.
 
 **Previous 0.19 (enclosure movement withdrawn in 0.20):** A weighted snake body rig supports enclosure exploration, hide-entrance and drinking previews. Open a snake → Care for snake → Watch enclosure → Care to feed/refresh water in the cage or try Auto / Explore / Peek / Drink. Under Style, cycle textured coco/aspen/moss substrates, plain/stone/leafy backdrops and the cork/castle hide. Cosmetic props carry their own interaction sockets for future variants. Breeder and collection cards show portraits, blue male/pink female symbols with words, known carriers and readiness. Header notices leave action buttons clear, and the nursery scrolls. Feeding uses larger props, a slower gape/intake and a side camera. Existing saves are preserved. This is an initial rigged behavior pass, not a full animal simulation.
 
