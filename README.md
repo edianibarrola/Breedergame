@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.9.0](https://www.edianibarrola.com/Breedergame/?v=0.9.0)
+[Play version 0.10.0](https://www.edianibarrola.com/Breedergame/?v=0.10.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
 
-**New in 0.9:** Instant-sale offers reward visible morphs, confirmed carriers, supers and combinations. Review the itemized offer before confirming. Normal babies earn 35 coins; Pastel 65, Clown 105, Pastel Clown 155, and Super Pastel Clown 185. Unproven hidden genes do not affect offers. Existing saves are retained.
+**New in 0.10:** Upper chambers stay elevated during inspection and building. Expand to 12 floor enclosures with two chambers each (24 homes). Use Room arrows on Home to browse sections; enclosure management and home selection scroll. Existing saves are preserved.
+
+**Added in 0.9:** Instant-sale offers reward visible morphs, confirmed carriers, supers and combinations. Review the itemized offer before confirming. Normal babies earn 35 coins; Pastel 65, Clown 105, Pastel Clown 155, and Super Pastel Clown 185. Unproven hidden genes do not affect offers. Existing saves are retained.
 
 **Added in 0.8:** Shop → Fire / Vanilla / Pied offers new breeding stock. Fire and Vanilla share one gene location and can produce Vanilla Cream; their super forms are Super Fire and Super Vanilla. Piebald adds individual white body patches. Try Ember × Custard for a Vanilla Cream project, or a Piebald pairing with Patch. Odds are per egg, and individual patterns vary. Existing collections and eggs migrate automatically.
 
@@ -26,7 +28,7 @@ The guide can be skipped. Before your first eggs exist, optional spending preser
 
 Care controls use explicit Add/Remove actions, with confirmation before removing equipment. Breeding previews are examples; actual babies have individual patterns. The Shop shows local NPC stock and lets you inspect before buying. Base prices are 35 coins for babies and 120 for adults, plus genetic bonuses; growth takes two minutes in this playtest. Owned favorites are protected from sale.
 
-Home, Snakes, Breed, Nursery, and Shop are designed around a portrait phone screen and also accept mouse input. Stacked enclosures can be inspected one chamber at a time. Cosmetics do not affect DNA or habitat readiness. Housing is limited to three bays with two chambers each in this playtest.
+Home, Snakes, Breed, Nursery, and Shop are designed around a portrait phone screen and also accept mouse input. Stacked enclosures can be inspected one chamber at a time. Cosmetics do not affect DNA or habitat readiness. Housing supports 12 floor enclosures with two chambers each (24 homes), shown in room sections of up to three floor enclosures.
 
 Timings and prices are accelerated prototype values. Timers continue while away. Progress saves locally in this browser; clearing browser data removes it, and it does not sync between devices. No accounts, real purchases, multiplayer, or live player listings are enabled. Real-device touch behavior and performance still need testing.
 
