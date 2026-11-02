@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.8.0](https://www.edianibarrola.com/Breedergame/?v=0.8.0)
+[Play version 0.9.0](https://www.edianibarrola.com/Breedergame/?v=0.9.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
 
-**New in 0.8:** Shop → Fire / Vanilla / Pied offers new breeding stock. Fire and Vanilla share one gene location and can produce Vanilla Cream; their super forms are Super Fire and Super Vanilla. Piebald adds individual white body patches. Try Ember × Custard for a Vanilla Cream project, or a Piebald pairing with Patch. Odds are per egg, and individual patterns vary. Existing collections and eggs migrate automatically.
+**New in 0.9:** Instant-sale offers reward visible morphs, confirmed carriers, supers and combinations. Review the itemized offer before confirming. Normal babies earn 35 coins; Pastel 65, Clown 105, Pastel Clown 155, and Super Pastel Clown 185. Unproven hidden genes do not affect offers. Existing saves are retained.
+
+**Added in 0.8:** Shop → Fire / Vanilla / Pied offers new breeding stock. Fire and Vanilla share one gene location and can produce Vanilla Cream; their super forms are Super Fire and Super Vanilla. Piebald adds individual white body patches. Try Ember × Custard for a Vanilla Cream project, or a Piebald pairing with Patch. Odds are per egg, and individual patterns vary. Existing collections and eggs migrate automatically.
 
 Breeding previews now sum the chances of identical appearances while keeping confirmed and possible genetics separate. Super Fire may hide other patterns; its white appearance does not automatically establish every underlying gene. Pedigree information stays attached to the animal.
 
@@ -17,12 +19,12 @@ Version 0.5 adds baby naming and renaming, previous/next and swipe browsing on s
 1. Follow **Care for Juniper** on Home. Fit the highlighted heater, then follow **Care for Atlas**. Shelter and water are already provided; each home takes 20 seconds to settle after its needs are met.
 2. Follow **Choose parents**. Inspect possible appearances and hidden genes, then start four eggs for 30 coins. Each egg has its own odds; results can repeat.
 3. After 45 seconds, **Hatch babies**. A group of eggs is called a clutch.
-4. Name each baby and choose its future. Sell now for a standard age-based price, select an empty home, or use the clearly priced **Build home & keep** option. Babies can wait safely in the nursery while you decide.
+4. Name each baby and choose its future. Sell now for a standard age-and-genetics price, select an empty home, or use the clearly priced **Build home & keep** option. Babies can wait safely in the nursery while you decide.
 5. Celebrate the completed clutch, then inspect a new breeding snake in the **Shop** to plan a fresh combination.
 
 The guide can be skipped. Before your first eggs exist, optional spending preserves the coins needed for care and pairing. Older saves already short of that budget receive starter support. Existing collections and genetics are retained. Use a private browser window to try a fresh start separately from your usual save.
 
-Care controls use explicit Add/Remove actions, with confirmation before removing equipment. Breeding previews are examples; actual babies have individual patterns. The Shop shows local NPC stock and lets you inspect before buying. Juveniles sell for 35 coins and adults for 120; growth takes two minutes in this playtest. Owned favorites are protected from sale.
+Care controls use explicit Add/Remove actions, with confirmation before removing equipment. Breeding previews are examples; actual babies have individual patterns. The Shop shows local NPC stock and lets you inspect before buying. Base prices are 35 coins for babies and 120 for adults, plus genetic bonuses; growth takes two minutes in this playtest. Owned favorites are protected from sale.
 
 Home, Snakes, Breed, Nursery, and Shop are designed around a portrait phone screen and also accept mouse input. Stacked enclosures can be inspected one chamber at a time. Cosmetics do not affect DNA or habitat readiness. Housing is limited to three bays with two chambers each in this playtest.
 
