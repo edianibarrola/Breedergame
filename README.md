@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.11.0](https://www.edianibarrola.com/Breedergame/?v=0.11.0)
+[Play version 0.12.0](https://www.edianibarrola.com/Breedergame/?v=0.12.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
 
-**New in 0.11:** Pieds have varied white coverage and colored islands, fixed to each snake’s seed. Explore one continuous sanctuary by dragging; Whole sanctuary zooms out, tapping a home in that overview focuses it, and Nearby homes returns to the closer view. Pinch or use the mouse wheel to zoom. Basic shelter and water are included and cannot be removed; older missing equipment is restored free. Climate and settling still matter.
+**New in 0.12:** The sanctuary is a compact room with connected enclosure banks around a corner. Drag in both directions, use Whole sanctuary to see it all, and tap a home to focus. Room framing stays between the controls. Glass-door pulls have been removed so they cannot look like part of the snake; lower drawer handles remain.
+
+**Added in 0.11:** Pieds have varied white coverage and colored islands, fixed to each snake’s seed. Explore one continuous sanctuary by dragging; Whole sanctuary zooms out, tapping a home in that overview focuses it, and Nearby homes returns to the closer view. Pinch or use the mouse wheel to zoom. Basic shelter and water are included and cannot be removed; older missing equipment is restored free. Climate and settling still matter.
 
 **Added in 0.10:** Upper chambers stay elevated during inspection and building. Expand to 12 floor enclosures with two chambers each (24 homes). Enclosure management and home selection scroll. Existing saves are preserved.
 
