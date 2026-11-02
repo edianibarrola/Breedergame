@@ -1,16 +1,20 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.5.0](https://www.edianibarrola.com/Breedergame/?v=0.5.0)
+[Play version 0.6.0](https://www.edianibarrola.com/Breedergame/?v=0.6.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog now supports Pastel, Clown, Enchi, and Albino, including super forms for Pastel/Enchi and combinations.
 
 Version 0.5 adds baby naming and renaming, previous/next and swipe browsing on snake details, collection search/filter/sort, clearer parent selection, enclosure shortcuts, family history, and clutch summaries. Visual Clowns have crown and facial markings; use **Face close-up** to inspect them. Enchi and Albino founders are available further down the visiting breeder shop. Existing saves migrate without resetting your progress.
 
-1. Open **Snakes**, view Juniper, then **Care & enclosure**. Fit climate equipment and do the same for Atlas. Each chamber needs shelter, water, climate equipment, and 20 seconds to settle.
-2. Open **Breed** to review per-egg odds and start a four-egg clutch for 30 coins.
-3. Open **Nursery**. After 45 seconds, hatch and meet each baby.
-4. Sell a juvenile immediately for 35 coins, or build an empty chamber and keep it. Growth takes two minutes; adults sell for 120. Favorited snakes are protected from sale.
-5. Use **Build & style** to expand your sanctuary or stack chambers. Buy documented new founders from the **Shop**, which is clearly labeled local breeder stock.
+1. Follow **Care for Juniper** on Home. Fit the highlighted heater, then follow **Care for Atlas**. Shelter and water are already provided; each home takes 20 seconds to settle after its needs are met.
+2. Follow **Choose parents**. Inspect possible appearances and hidden genes, then start four eggs for 30 coins. Each egg has its own odds; results can repeat.
+3. After 45 seconds, **Hatch babies**. A group of eggs is called a clutch.
+4. Name each baby and choose its future. Sell now for a standard age-based price, select an empty home, or use the clearly priced **Build home & keep** option. Babies can wait safely in the nursery while you decide.
+5. Celebrate the completed clutch, then inspect a new breeding snake in the **Shop** to plan a fresh combination.
+
+The guide can be skipped. Before your first eggs exist, optional spending preserves the coins needed for care and pairing. Older saves already short of that budget receive starter support. Existing collections and genetics are retained. Use a private browser window to try a fresh start separately from your usual save.
+
+Care controls use explicit Add/Remove actions, with confirmation before removing equipment. Breeding previews are examples; actual babies have individual patterns. The Shop shows local NPC stock and lets you inspect before buying. Juveniles sell for 35 coins and adults for 120; growth takes two minutes in this playtest. Owned favorites are protected from sale.
 
 Home, Snakes, Breed, Nursery, and Shop are designed around a portrait phone screen and also accept mouse input. Stacked enclosures can be inspected one chamber at a time. Cosmetics do not affect DNA or habitat readiness. Housing is limited to three bays with two chambers each in this playtest.
 
