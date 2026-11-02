@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#54876a"><title>Little Bloodlines · Habitat Workshop</title>
+<meta name="theme-color" content="#54876a"><title>Little Bloodlines · Breeding Playtest</title>
 <style>
 *{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#233e34;font-family:system-ui,sans-serif;color:#483629}body{display:grid;place-items:center}
 main{position:relative;width:min(100vw,56.25vh);width:min(100vw,56.25dvh);height:min(100vh,177.7778vw);height:min(100dvh,177.7778vw);background:#e9dfc9}
@@ -9,12 +9,12 @@ canvas{display:block;width:100%;height:100%;outline:none;touch-action:none}
 h1{font-size:30px;margin:0}p{font-size:15px;line-height:1.5;margin:0}progress{accent-color:#54876a;width:80%;height:18px}
 #retry{padding:12px 24px;border:0;border-radius:14px;background:#54876a;color:white;font:inherit;display:none}
 </style></head><body><main>
-<canvas id="game" tabindex="0" aria-label="Interactive enclosure customization workshop"></canvas>
-<section id="loading"><h1>Little Bloodlines</h1><p>Build a little room to grow.</p><progress id="progress" max="1" value="0"></progress><p id="status">Loading the offline habitat workshop…</p><button id="retry" type="button">Try again</button></section>
-</main><script src="Build/HabitatWeb.loader.js?v=0.3.1"></script><script>
+<canvas id="game" tabindex="0" aria-label="Snake breeding and sanctuary game"></canvas>
+<section id="loading"><h1>Little Bloodlines</h1><p>A little shop. Endless possibilities.</p><progress id="progress" max="1" value="0"></progress><p id="status">Loading the offline breeding playtest…</p><button id="retry" type="button">Try again</button></section>
+</main><script src="Build/HabitatWeb.loader.js?v=0.4.0"></script><script>
 const canvas=document.getElementById('game'), overlay=document.getElementById('loading');
 document.getElementById('retry').onclick=()=>location.reload();
-createUnityInstance(canvas,{"dataUrl":"Build/HabitatWeb.data?v=0.3.1","frameworkUrl":"Build/HabitatWeb.framework.js?v=0.3.1","codeUrl":"Build/HabitatWeb.wasm?v=0.3.1","streamingAssetsUrl":"StreamingAssets","companyName":"LittleBloodlines","productName":"Little Bloodlines · Habitat Workshop","productVersion":"0.3.1"},p=>document.getElementById('progress').value=p).then(instance=>{
+createUnityInstance(canvas,{"dataUrl":"Build/HabitatWeb.data?v=0.4.0","frameworkUrl":"Build/HabitatWeb.framework.js?v=0.4.0","codeUrl":"Build/HabitatWeb.wasm?v=0.4.0","streamingAssetsUrl":"StreamingAssets","companyName":"LittleBloodlines","productName":"Little Bloodlines · Breeding Playtest","productVersion":"0.4.0"},p=>document.getElementById('progress').value=p).then(instance=>{
 overlay.style.display='none';canvas.focus();window.visualLab=instance;
 }).catch(error=>{
 document.getElementById('status').textContent='The prototype could not start on this browser. '+String(error);
