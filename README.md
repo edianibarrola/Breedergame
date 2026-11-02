@@ -1,8 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.6.0](https://www.edianibarrola.com/Breedergame/?v=0.6.0)
+[Play version 0.7.0](https://www.edianibarrola.com/Breedergame/?v=0.7.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog now supports Pastel, Clown, Enchi, and Albino, including super forms for Pastel/Enchi and combinations.
+
+**Phone dev tools:** Home → Dev tools. Add playtest coins, finish waiting timers, equip occupied homes, or reset to a fresh game. Reset asks for confirmation and retains one pre-reset restore point. Use Restore pre-reset save to return to that snapshot; a later reset replaces it. These tools affect only your local browser save.
+
+**Enclosures:** Home → Enclosures → Buy new enclosure adds a separate floor enclosure with one empty chamber. Manage an existing enclosure → Build → Add upper adds a chamber above that enclosure instead. Both purchases show their cost and ask for confirmation. The old Expand control has been replaced by View all enclosures.
 
 Version 0.5 adds baby naming and renaming, previous/next and swipe browsing on snake details, collection search/filter/sort, clearer parent selection, enclosure shortcuts, family history, and clutch summaries. Visual Clowns have crown and facial markings; use **Face close-up** to inspect them. Enchi and Albino founders are available further down the visiting breeder shop. Existing saves migrate without resetting your progress.
 

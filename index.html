@@ -11,10 +11,10 @@ h1{font-size:30px;margin:0}p{font-size:15px;line-height:1.5;margin:0}progress{ac
 </style></head><body><main>
 <canvas id="game" tabindex="0" aria-label="Snake breeding and sanctuary game"></canvas>
 <section id="loading"><h1>Little Bloodlines</h1><p>A little shop. Endless possibilities.</p><progress id="progress" max="1" value="0"></progress><p id="status">Loading the offline breeding playtest…</p><button id="retry" type="button">Try again</button></section>
-</main><script src="Build/HabitatWeb.loader.js?v=0.6.0"></script><script>
+</main><script src="Build/HabitatWeb.loader.js?v=0.7.0"></script><script>
 const canvas=document.getElementById('game'), overlay=document.getElementById('loading');
 document.getElementById('retry').onclick=()=>location.reload();
-createUnityInstance(canvas,{"dataUrl":"Build/HabitatWeb.data?v=0.6.0","frameworkUrl":"Build/HabitatWeb.framework.js?v=0.6.0","codeUrl":"Build/HabitatWeb.wasm?v=0.6.0","streamingAssetsUrl":"StreamingAssets","companyName":"LittleBloodlines","productName":"Little Bloodlines · Breeding Playtest","productVersion":"0.6.0"},p=>document.getElementById('progress').value=p).then(instance=>{
+createUnityInstance(canvas,{"dataUrl":"Build/HabitatWeb.data?v=0.7.0","frameworkUrl":"Build/HabitatWeb.framework.js?v=0.7.0","codeUrl":"Build/HabitatWeb.wasm?v=0.7.0","streamingAssetsUrl":"StreamingAssets","companyName":"LittleBloodlines","productName":"Little Bloodlines · Breeding Playtest","productVersion":"0.7.0"},p=>document.getElementById('progress').value=p).then(instance=>{
 overlay.style.display='none';canvas.focus();window.visualLab=instance;
 }).catch(error=>{
 document.getElementById('status').textContent='The prototype could not start on this browser. '+String(error);
