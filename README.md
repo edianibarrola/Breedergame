@@ -1,12 +1,14 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.14.0](https://www.edianibarrola.com/Breedergame/?v=0.14.0)
+[Play version 0.15.0](https://www.edianibarrola.com/Breedergame/?v=0.15.0)
 
 Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
 
-**New in 0.14:** Drag horizontally on the Room map to rotate the whole sanctuary. Turn left / Turn right rotate by 90 degrees. The camera keeps the room centered and framed, and nearby walls cut away when viewed from outside. The build-position sign faces the camera in both rack and map views, including reversed racks.
+**New in 0.15:** Select an Aisle label in the room view, then press Enter aisle 1 or Enter aisle 2. The selected floor area is highlighted. Inside, rack buttons switch only between that aisle’s sides; Back to room returns to the overview. Pinch and mouse-wheel zoom change magnification only, without entering an aisle or changing view mode. Fresh starts open in the room view.
 
-**Added in 0.13:** Home opens in a low, front-facing rack view so both upper and lower residents are visible. Drag along a rack; use ‹ Rack / Rack › to switch sides or aisles. Room map shows the whole layout; tap an enclosure to face its rack, or use Front view to return. Foreground walls and other racks are hidden in the front view. Capacity remains 12 floor enclosures / 24 homes, arranged as four short racks across two aisles. Existing saves are preserved.
+**Added in 0.14:** Drag horizontally on the Room map to rotate the whole sanctuary. Turn left / Turn right rotate by 90 degrees. The camera keeps the room centered and framed, and nearby walls cut away when viewed from outside. The build-position sign faces the camera in both rack and map views, including reversed racks.
+
+**Added in 0.13:** Inside an aisle, the low front-facing camera shows upper and lower residents. Drag along a rack and use the rack buttons to face the other side. In the room view, tapping an enclosure selects its aisle. Foreground walls and other racks are hidden in the front view. Capacity remains 12 floor enclosures / 24 homes, arranged as four short racks across two aisles. Existing saves are preserved.
 
 Glass-door pulls remain removed; lower drawer handles are retained.
 
