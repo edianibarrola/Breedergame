@@ -1,10 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.15.0](https://www.edianibarrola.com/Breedergame/?v=0.15.0)
+[Play version 0.16.0](https://www.edianibarrola.com/Breedergame/?v=0.16.0)
 
-Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire and Vanilla, including supported super forms and combinations.
+Equip your starter snakes' chambers, choose a pair, incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.15:** Select an Aisle label in the room view, then press Enter aisle 1 or Enter aisle 2. The selected floor area is highlighted. Inside, rack buttons switch only between that aisle’s sides; Back to room returns to the overview. Pinch and mouse-wheel zoom change magnification only, without entering an aisle or changing view mode. Fresh starts open in the room view.
+**New in 0.16:** Tap a floor aisle to enter directly; large aisle buttons and the extra entry confirmation are removed. Baby cards now say Known genetics and explain that supers pass one copy per baby. Orange Dream, Super Orange Dream and TSK Axanthic join the catalog. Shop → Clown-free projects offers new lines, with 14 founders total and 11 free of Clown. Existing DNA is retained; new gene locations migrate as normal alleles.
 
 **Added in 0.14:** Drag horizontally on the Room map to rotate the whole sanctuary. Turn left / Turn right rotate by 90 degrees. The camera keeps the room centered and framed, and nearby walls cut away when viewed from outside. The build-position sign faces the camera in both rack and map views, including reversed racks.
 
