@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.22.0](https://www.edianibarrola.com/Breedergame/?v=0.22.0)
+[Play version 0.23.0](https://www.edianibarrola.com/Breedergame/?v=0.23.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.22:** Swiping a card list cancels selection for the entire gesture, including when the thumb returns to its starting position or begins over the info icon. Genuine taps still open cards or expand genetics. Navigation arrows, sex symbols, favorites, dropdowns and menu controls now use drawn artwork so missing font glyphs do not leave blank controls. Existing saves are preserved.
+**New in 0.23:** Your first hatch pays a one-time 300-coin reward before choosing baby homes. Keeping one baby and selling three normals now leaves 305 coins on the standard tutorial route. Already-hatched saves receive the same credit once when opened, so an existing five-coin balance becomes 305 without resetting. Reopening, celebrating again and later clutches cannot repeat it. DNA, sale prices, housing and existing progress are retained.
+
+**Added in 0.22:** Swiping a card list cancels selection for the entire gesture, including when the thumb returns to its starting position or begins over the info icon. Genuine taps still open cards or expand genetics. Navigation arrows, sex symbols, favorites, dropdowns and menu controls now use drawn artwork so missing font glyphs do not leave blank controls. Existing saves are preserved.
 
 **Added in 0.21:** Cards grow to fit long morph names, carrier summaries and expanded genetics. Shop cards show the same portrait, morph, sex symbol and price layout as owned snakes. Long profile details scroll instead of cutting off. Future launches check for newer builds before starting, with an offline fallback; an active game is never reloaded. Existing saves are preserved. Use the versioned play link above once if an older screen is still loaded.
 
