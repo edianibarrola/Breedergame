@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.24.0](https://www.edianibarrola.com/Breedergame/?v=0.24.0)
+[Play version 0.25.0](https://www.edianibarrola.com/Breedergame/?v=0.25.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.24:** Snakes rest with their head and a little neck at the original small hide entrance, slowly retreating and peeking out again. Cork and castle hides share entrance markers; portraits retain the full coil. Feeding has a rebuilt lower jaw, gentle neck lift, constant-size mouse and an intake path between the jaws. Swallowed portions are concealed inside the lips. This is a stylized presentation; full-body slithering remains disabled.
+**New in 0.25:** Most snakes are fully visible in their enclosures (18 full coils and six peeks in a full room). Peeking snakes keep their face outside the hide throughout a small lean/pullback cycle. Patterned body folds and a dark interior backing replace the empty-looking doorway. The starter is always visible. Rack navigation uses clean arrow buttons.
+
+**From 0.24:** Snakes rest with their head and a little neck at the original small hide entrance, slowly retreating and peeking out again. Cork and castle hides share entrance markers; portraits retain the full coil. Feeding has a rebuilt lower jaw, gentle neck lift, constant-size mouse and an intake path between the jaws. Swallowed portions are concealed inside the lips. This is a stylized presentation; full-body slithering remains disabled.
 
 **From 0.23:** Your first hatch pays a one-time 300-coin reward before choosing baby homes. Keeping one baby and selling three normals now leaves 305 coins on the standard tutorial route. Already-hatched saves receive the same credit once when opened, so an existing five-coin balance becomes 305 without resetting. Reopening, celebrating again and later clutches cannot repeat it. DNA, sale prices, housing and existing progress are retained.
 
