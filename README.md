@@ -1,8 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.26.1](https://www.edianibarrola.com/Breedergame/?v=0.26.1)
+[Play version 0.26.2](https://www.edianibarrola.com/Breedergame/?v=0.26.2)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
+
+**New in 0.26.2:** Expand room is directly available on the sanctuary and housing pages. When the floor is full, the build button opens expansion instead of a failed purchase.
 
 **Fixed in 0.26.1:** Visual recessive hatchlings prove their nonvisual parents as confirmed carriers. Existing hatched clutches, including sold offspring, repair parental records on load; breeding previews then use the proved genetics.
 
