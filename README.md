@@ -1,10 +1,12 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.25.0](https://www.edianibarrola.com/Breedergame/?v=0.25.0)
+[Play version 0.26.0](https://www.edianibarrola.com/Breedergame/?v=0.26.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
 
-**New in 0.25:** Most snakes are fully visible in their enclosures (18 full coils and six peeks in a full room). Peeking snakes keep their face outside the hide throughout a small lean/pullback cycle. Patterned body folds and a dark interior backing replace the empty-looking doorway. The starter is always visible. Rack navigation uses clean arrow buttons.
+**New in 0.26:** Clear breeding forecasts even with unproven genetics; Pinstripe, Leopard and Hypo projects; twelve-home collection racks; and a furnished room you can arrange. Buy housing, drag it onto the grid, rotate it, expand the room and pack empty units away for reuse. Rack residents retain individual cards, growth, breeding and group care. Some displays now use an authored loose resting pose. Existing progress migrates without a reset.
+
+**From 0.25:** Most snakes are fully visible in their enclosures (18 full coils and six peeks in a full room). Peeking snakes keep their face outside the hide throughout a small lean/pullback cycle. Patterned body folds and a dark interior backing replace the empty-looking doorway. The starter is always visible. Rack navigation uses clean arrow buttons.
 
 **From 0.24:** Snakes rest with their head and a little neck at the original small hide entrance, slowly retreating and peeking out again. Cork and castle hides share entrance markers; portraits retain the full coil. Feeding has a rebuilt lower jaw, gentle neck lift, constant-size mouse and an intake path between the jaws. Swallowed portions are concealed inside the lips. This is a stylized presentation; full-body slithering remains disabled.
 
