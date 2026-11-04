@@ -1,8 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.29.0](https://www.edianibarrola.com/Breedergame/?v=0.29.0)
+[Play version 0.30.0](https://www.edianibarrola.com/Breedergame/?v=0.30.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
+
+**New in 0.30:** Style upper and lower enclosures independently, or apply a style to both. Front view shows the full snake in every occupied home. Choose movable rugs in four shapes, two sizes and three colors through Room theme → Rugs; furniture can sit above them. A revised resting coil uses real ball python reference photos. Existing saves keep their styles and progress.
 
 **New in 0.29:** Cozy Conservatory brings honey oak, cream cabinetry, paneled walls, botanical art and a woven runner. Choose it or Original through Home → … → Room theme. Completed tutorials stay complete; later nursery activity uses a compact strip. Pinch zoom follows your fingers, two fingers pan, and the room keeps its camera position when returning from Front view. Existing saves migrate without a reset.
 
