@@ -1,8 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.30.1](https://www.edianibarrola.com/Breedergame/?v=0.30.1)
+[Play version 0.31.0](https://www.edianibarrola.com/Breedergame/?v=0.31.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
+
+**New in 0.31:** Hatched offspring now update Pinstripe and Leopard copy records. A nonvisual baby proves one copy; positive test breedings can raise a pedigree-based two-copy estimate without falsely confirming it. Existing clutch history is used on load. Feeding has small skin-matched rear jaw folds instead of a visible tube, and the head blends smoothly into individual neck patterns. Progress is preserved.
 
 **Fixed in 0.30.1:** Feeding now carries the feeder into a recessed mouth interior instead of slicing it away at the exposed lips. The feeder stays full size, is concealed behind the mouth lining, and completes its intake before the jaws close. Saved progress is unchanged.
 
