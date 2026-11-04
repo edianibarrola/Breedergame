@@ -1,8 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.28.0](https://www.edianibarrola.com/Breedergame/?v=0.28.0)
+[Play version 0.29.0](https://www.edianibarrola.com/Breedergame/?v=0.29.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
+
+**New in 0.29:** Cozy Conservatory brings honey oak, cream cabinetry, paneled walls, botanical art and a woven runner. Choose it or Original through Home → … → Room theme. Completed tutorials stay complete; later nursery activity uses a compact strip. Pinch zoom follows your fingers, two fingers pan, and the room keeps its camera position when returning from Front view. Existing saves migrate without a reset.
 
 **New in 0.28:** Ultramel, Genetic Stripe, Puzzle, Mojave and Mystic bring the roster to seventeen named mutations. Breed Super Mojave, Super Mystic and Mystic Potion through the shared Mojave/Mystic locus. Eight new founders start the projects, with new patterns, pigment palettes, head markings and eye colors. Existing animals and eggs migrate without rerolling.
 
