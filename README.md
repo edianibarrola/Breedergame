@@ -1,8 +1,10 @@
 # Little Bloodlines — Web playtests
 
-[Play version 0.33.1](https://www.edianibarrola.com/Breedergame/?v=0.33.1)
+[Play version 0.34.0](https://www.edianibarrola.com/Breedergame/?v=0.34.0)
 
 Start with one young Pastel, name it, feed it and refresh its water. Tutorial rewards help you add a second enclosure and a compatible breeding partner. Then incubate a clutch, hatch, and keep or immediately sell each baby. Permanent genetics and individual appearance seeds are saved when eggs are created. The morph catalog supports Pastel, Clown, Enchi, Albino, Piebald, Fire, Vanilla, Orange Dream and TSK Axanthic, including supported super forms and combinations.
+
+**New in 0.34** Save recovery shows dated local snapshots and keeps a readable save before a manual restore.
 
 **New in 0.33** The planted backdrop and Leaf litter bedding use artwork cropped to the panel and tray.
 
